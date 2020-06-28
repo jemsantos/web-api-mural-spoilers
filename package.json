@@ -1,0 +1,28 @@
+{
+  "name": "web-api-mural-spoilers",
+  "version": "1.0.0",
+  "description": "Sistema web de mural de spoilers em Node.js e React",
+  "main": "src/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemsantos/web-api-mural-spoilers.git"
+  },
+  "keywords": [
+    "Node.js",
+    "React",
+    "Devmedia",
+    "Spoiler"
+  ],
+  "author": "José Eustaquio Muniz Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jemsantos/web-api-mural-spoilers/issues"
+  },
+  "homepage": "https://github.com/jemsantos/web-api-mural-spoilers#readme"
+}
