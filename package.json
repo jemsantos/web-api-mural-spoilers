@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/jemsantos/web-api-mural-spoilers/issues"
   },
-  "homepage": "https://github.com/jemsantos/web-api-mural-spoilers#readme"
+  "homepage": "https://github.com/jemsantos/web-api-mural-spoilers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
